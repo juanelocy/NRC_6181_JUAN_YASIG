@@ -7,3 +7,4 @@
 5.- Se deben de declarar las variables al principio del codigo
 6.- Respetar las estructuras. 
 7.- Al finalizar una linea de codigo siempre va un punto y coma (;).
+Juan Yasig
